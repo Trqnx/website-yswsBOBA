@@ -1,0 +1,16 @@
+img {
+    width: 800px;
+}
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background: rgb(165, 221, 243);
+    color: coral;
+}
+h1 {
+    -webkit-text-stroke: 1px black;
+}
+p {
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+}
